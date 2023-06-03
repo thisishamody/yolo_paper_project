@@ -19,7 +19,7 @@ To run the project, follow these steps:
 1. Clone the repository:
 
     ```
-    git clone thisishamody/yolo_paper_project
+    git clone [thisishamody/yolo_paper_project](https://github.com/thisishamody/yolo_paper_project.git)
     ```
 
 2. Install the necessary dependencies:
